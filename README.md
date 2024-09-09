@@ -24,8 +24,12 @@ This project involves the development of a PCB designed to integrate the **Franz
 
 **Note:** This is a flexible project that can be used in other applications, such as:
 
-- AC high-load actuation
-- Relay control
-- Display interface
+- **Smart thermostat**: Control heating and cooling systems based on temperature and humidity readings.
+- **Greenhouse automation**: Manage humidity, temperature, and lighting for plant growth.
+- **Water heater controller**: Regulate the temperature of water in residential or industrial settings.
+- **Home automation**: Control devices like fans, lights, or appliances using sensor inputs.
+- **Aquarium climate controller**: Maintain stable temperatures and monitor water quality in aquariums.
+- **Dehumidifier control**: Automatically manage a dehumidifier based on humidity sensor readings.
+- **Food dehydrator**: Control heating elements to dry food for preservation.
 
 The only limit is your creativity.
