@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB1.GBR   09/09/2024  11:53:03
+Gerber File Extension Report For: PCB1.GBR   09/09/2024  13:36:13
 ------------------------------------------------------------------------------------------
 
 
@@ -30,8 +30,8 @@ Layer Extension     Layer Description
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
-.1                  Dielectric 1                            
 .GML                Multi-Layer                             
+.1                  Dielectric 1                            
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
 .GM                 Profile                                 
