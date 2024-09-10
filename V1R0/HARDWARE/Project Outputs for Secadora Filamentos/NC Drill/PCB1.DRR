@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB1.PcbDoc   09/09/2024  13:36:16
+NCDrill File Report For: PCB1.PcbDoc   10/09/2024  14:05:22
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,12 +10,11 @@ Tool       Hole Size               Hole Tolerance               Hole Type       
 T1      20mil (0.5mm)                                             Round             10        PTH        4.48inch (113.72mm)
 T2      31mil (0.787mm)                                           Round             12        PTH        3.19inch (81.02mm)
 T3      35mil (0.889mm)                                           Round             20        PTH        3.20inch (81.28mm)
-T4      35mil (0.899mm)                                           Round             2         PTH        0.40inch (10.16mm)
-T5      40mil (1.021mm)                                           Round             12        PTH        2.60inch (65.93mm)
-T6      43mil (1.1mm)                                             Round             19        PTH        6.43inch (163.24mm)
-T7      51mil (1.3mm)                                             Round             19        PTH        7.69inch (195.29mm)
-T8      118mil (3mm)                                              Round             4         NPTH       10.68inch (271.19mm)
+T4      40mil (1.021mm)                                           Round             12        PTH        2.60inch (65.93mm)
+T5      43mil (1.1mm)                                             Round             17        PTH        6.07inch (154.19mm)
+T6      51mil (1.3mm)                                             Round             24        PTH        12.26inch (311.48mm)
+T7      118mil (3mm)                                              Round             4         NPTH       10.68inch (271.19mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              98
+Totals                                                                              99
 
 Total Processing Time (hh:mm:ss) : 00:00:00
