@@ -1,7 +1,7 @@
 # 3D Printer Filament Dryer Project
 ---
 <p align="center">
-<img src="imgs/pcb.jpeg" alt="Dryer" width="400"/>
+<img src="imgs/pcb1.jfif" alt="Dryer" width="400"/>
 </p>
 
 ---
